@@ -30,7 +30,7 @@ npm start
 
 - Open your web browser and visit http://localhost:3000 to play the game.
   
-##How to Play
+## How to Play
 Click on any card to flip it over and reveal the image.
 Click on a second card to flip it over as well.
 If the two cards match, they will remain face up.
