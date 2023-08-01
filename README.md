@@ -19,7 +19,7 @@ The Memory Card Game is a React-based web application that simulates the classic
 To run the Memory Card Game on your local machine, follow these steps:
 
 - Clone the repository to your local machine:
-git clone [https://github.com/your-username/memory-game.git](https://github.com/fatemehkarami/Memory-Game.git)
+git clone [https://github.com/your-username/memory-card-game.git](https://github.com/fatemehkarami/Memory-Card-Game.git)
 
 - Navigate to the project directory:
 cd memory-card-game
