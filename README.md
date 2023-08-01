@@ -9,8 +9,8 @@ The Memory Card Game is a React-based web application that simulates the classic
 - A simple and intuitive user interface for an enjoyable gaming experience.
   
 ## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
 - JavaScript: The primary language used for game logic and interactivity.
+- React.js: A JavaScript library for building user interfaces.
 - CSS: Styling and layout of the game components.
 
 ## install
